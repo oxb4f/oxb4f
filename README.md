@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/f8795aed-92b2-451d-8529-beaa74ac0ecb.svg)](https://wakatime.com/@f8795aed-92b2-451d-8529-beaa74ac0ecb)
 
 <!--
 **oxb4f/oxb4f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
